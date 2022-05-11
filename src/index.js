@@ -11,6 +11,11 @@ root.render(
       <h1>Weather App</h1>
       <WeatherApp />
     </div>
+    <footer>
+  
+        This website was coded by Amanda Corral and is open-sourced in <a href="https://github.com/Amandacorral07/weather-react">GitHub</a>
+      
+    </footer>
   </React.StrictMode>
 );
 
